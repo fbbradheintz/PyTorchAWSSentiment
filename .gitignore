@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+*csv
+*tsv
+*zip
+models/
+train/
+test/
+seedlings-train/
+seedlings-test/
+sentiment-train/
+sentiment-test/
+.vector_cache/
+TODO
